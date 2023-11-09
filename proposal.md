@@ -23,14 +23,17 @@ Currently, I'm not 100% certain what specific libraries I might need. Considerin
 **Week 1 (11/9-11/18)**: 
 - Figure out what data/ how to integrate it into Python
 - Need to create a dictionary probably for the restaurant data
+  
 **Week 2 (11/19-11/25)**: 
 -Load in necessary libraries/packages
 -Start creating Python functions for users to input and generate desired outputs 
 -Focus on getting the MVP achieved in its basic form
+
 **Week 3 (11/26-12/02)**: 
 -Integrate Flask with Python code 
 -Start building website
 -Potentially add complexities into MVP
+
 **Week 4 (12/03-12/09)**: 
 -Finalize Python code and wesbite
 -Tie up any loose ends/edits and add any necessary changes
