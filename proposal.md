@@ -1,4 +1,4 @@
-## **Project Proposal**
+## **Project Proposal - Food Delivery App**
 # *By Alice Minkov-Temis*
 
 ## Big Idea (MVP)
